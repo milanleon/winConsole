@@ -9,5 +9,5 @@ int main()
 	int iValue = minus(5, 3);
 	printf("5 - 3 = %d\n", iValue);
 
-	return 0;
+	return 1;
 }
